@@ -1,0 +1,13 @@
+query,text,intent_hint,scope,language,traffic_group
+k00,鼓楼,地标,博物馆,zh,常见
+k01,鼓楼,版画,学校,zh,常见
+k02,木版,版画,学校,zh,常见
+k03,年画,版画,联合,zh,常见
+k04,铜鸟,铜器,博物馆,zh,常见
+k05,bronze bird,铜器,联合,en,常见
+k06,gate tower,地标,联合,en,常见
+k07,画稿,版画,博物馆,zh,低频
+k08,晋国,车马,联合,zh,低频
+k09,陶寺,陶器,博物馆,zh,低频
+k10,马坑,车马,博物馆,zh,低频
+k11,printed gate,版画,学校,en,低频

@@ -1,0 +1,11 @@
+config,rules,revision,generated
+base,,catalog-1,2026-10-20
+land,a1,catalog-1,2026-10-20
+print,a2|a3,catalog-1,2026-10-21
+horse,a5,catalog-1,2026-10-21
+eng,a4|a6,catalog-1,2026-10-21
+mix,a1|a2|a3|a7,catalog-1,2026-10-21
+base2,,catalog-2,2026-10-26
+land2,a1,catalog-2,2026-10-26
+eng2,a4|a6,catalog-2,2026-10-26
+school2,a7,catalog-2,2026-10-26

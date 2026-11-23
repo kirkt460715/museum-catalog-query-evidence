@@ -1,0 +1,5 @@
+scope,language,minimum_queries,judged_depth,min_overlap,maximum_loss
+学校,zh,3,3,0.65,0.04
+博物馆,zh,4,3,0.65,0.04
+联合,en,2,3,0.6,0.06
+联合,zh,2,3,0.65,0.05

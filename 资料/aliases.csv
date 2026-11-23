@@ -1,0 +1,8 @@
+rule,alias,expansion,scope,language,from_editor,state
+a1,鼓楼,临汾地标,联合,zh,馆编辑,shared
+a2,鼓楼,木版画城门,学校,zh,校编辑,proposed
+a3,木版,传统版画,联合,zh,校编辑,proposed
+a4,bronze bird,铜鸟盉,联合,en,馆编辑,proposed
+a5,马坑,车马坑,博物馆,zh,馆编辑,proposed
+a6,gate tower,城门木版画,学校,en,校编辑,proposed
+a7,临汾地标,校史画稿,学校,zh,校编辑,active
