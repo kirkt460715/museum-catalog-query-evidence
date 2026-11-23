@@ -90,3 +90,10 @@ python3 -m unittest discover -s tests -v
 ```
 
 统计与数值计算所用依赖锁定在 `requirements.txt`，预装环境使用同一清单。本机可在 Python 3.11 的虚拟环境内运行 `python3 -m pip install -r requirements.txt`。
+
+也可以用 Docker 在本地读取同一份资料。
+
+```sh
+docker build -t project-sources .
+docker run --rm project-sources
+```
